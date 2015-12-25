@@ -1,4 +1,4 @@
-# contact-me
+# Contact Me
 
 This repo is intended to provide a way to contact me!
 
